@@ -1,4 +1,4 @@
-![logo](https://github.com/diwakar1593/diwakar1593/blob/main/GitHub%20Banner.png.jpg)
+[![@diwakar_1593's Holopin board](https://holopin.me/diwakar_1593)](https://holopin.io/@diwakar_1593)
 
 <h1 align="center">Hi 👋, I'm Diwakar Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
