@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakar1593&show_icons=true&locale=en&layout=compact" alt="diwakar1593" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakar1593&show_icons=true&locale=en" alt="diwakar1593" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar1593&" alt="diwakar1593" /></p>
