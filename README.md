@@ -36,8 +36,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakar1593&show_icons=true&locale=en&layout=compact" alt="diwakar1593" height=50 width=50%/>
-  &nbsp;
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar1593&" alt="diwakar1593" height=50 width=50%/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakar1593&show_icons=true&locale=en&layout=compact" alt="diwakar1593" height=150 width=50/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar1593&" alt="diwakar1593" height=150 width=50/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwakar1593" alt="diwakar1593" width=100%/></a> </p>
