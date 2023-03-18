@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Diwakar Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwakar1593&label=Profile%20views&color=0e75b6&style=flat" alt="diwakar1593" /> </p>
 
