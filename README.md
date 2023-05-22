@@ -1,7 +1,5 @@
 [![@diwakar_1593's Holopin board](https://holopin.me/diwakar_1593)](https://holopin.io/@diwakar_1593)
 
-<img src="https://github.com/diwakar1593/diwakar1593/blob/main/text.gif" height="30"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Diwakar Kumar</h1>
