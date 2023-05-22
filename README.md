@@ -47,16 +47,24 @@
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=diwakar1593) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwakar1593&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+![Diwakar's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwakar1593&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakar1593&show_icons=true&locale=en&layout=compact" alt="diwakar1593" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar1593&" alt="diwakar1593" />
+## Watch my contribution graph being eaten by a snake🐍
+
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+<details>
+<summary></summary>
+
+[![Tap to Reload](https://metrics.lecoq.io/diwakar1593?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/diwakar1593)
+
+</details>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwakar1593" alt="diwakar1593" width=100%/></a> 
