@@ -47,9 +47,9 @@
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=diwakar1593) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Diwakar's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwakar1593&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+<!-- ![Diwakar's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwakar1593&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg) -->
 
 <h4 align="center">
 
