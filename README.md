@@ -56,7 +56,7 @@
 ## Watch my contribution graph being eaten by a snake🐍
 
 <p align="center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/diwakar1593/diwakar1593/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <details>
