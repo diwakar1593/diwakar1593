@@ -23,7 +23,7 @@
 - ⚡ Fun fact: Big fan of 🌈
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+<a href="https://bmc.link/diwakar2002" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
 
 <h3 align="left">Connect with me:</h3>
