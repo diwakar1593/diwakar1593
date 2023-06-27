@@ -4,7 +4,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+<img src="https://github.com/diwakar1593/diwakar1593/blob/main/header_.png" >
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Diwakar Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
